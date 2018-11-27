@@ -1,0 +1,8 @@
+trainingInput:
+  runtimeVersion: "1.9"
+  scaleTier: CUSTOM
+  masterType: standard_p100
+  workerCount: 5
+  workerType: standard_p100
+  parameterServerCount: 3
+  parameterServerType: large_model
